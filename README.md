@@ -1,7 +1,4 @@
 # data_mining_hw1
-Ad Soyad: Ertuğrul Sunğur
-
-Öğrenci No: 20120205004
 
 # Veri Madenciliği Ödev 1 Raporu
 
